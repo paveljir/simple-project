@@ -29,15 +29,15 @@
   </dependencies>
   
   <distributionManagement>
-    <downloadUrl>http://10.14.163.169:8081/nexus/content/groups/public/</downloadUrl>
+    <downloadUrl>http://WL029481:8081/nexus/content/groups/public/</downloadUrl>
       <repository>
           <id>nexus</id>
-            <url>http://10.14.163.169:8081/nexus/content/repositories/releases/</url>
+            <url>http://WL029481:8081/nexus/content/repositories/releases/</url>
       </repository>
       <snapshotRepository>
           <uniqueVersion>false</uniqueVersion>
           <id>nexus</id>
-            <url>http://10.14.163.169:8081/nexus/content/repositories/snapshots/</url>
+            <url>http://WL029481:8081/nexus/content/repositories/snapshots/</url>
       </snapshotRepository>
   </distributionManagement>
 
